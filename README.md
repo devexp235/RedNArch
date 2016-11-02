@@ -1,7 +1,7 @@
 # RedNArch
 Part - 1:- How to implement a decoupled, unit testable, N-Tier Architecture based on Generic Repository Pattern with Entity Framework, IOC container and dependency injection in ASP.NET MVC
 
-There are 5 sub projects for implementing a decoupled, unit testable architecture.
+There are 5 sub projects for implementing a decoupled, unit testable architecture. Once the project is downloaded, build the project to download the appropriate references.
 1. RedNArch.Model
 2. RedNArch.Repository
 3. RedNArch.Service
